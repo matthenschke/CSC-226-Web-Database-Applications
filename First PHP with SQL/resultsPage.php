@@ -47,7 +47,7 @@ switch($searchtype) {
   if ($stmt->num_rows == 0)
 	  echo "No records found!";
   else
-  echo "<p> Number of books found: ".$stmt->num_rows."</p>";
+  echo "<p> Number of pages  found: ".$stmt->num_rows."</p>";
   while ($stmt->fetch()) {
      echo "<p><strong> Page Name: ".$name."</strong><br />";
      echo "Visit Date: ".$date."<br />";
