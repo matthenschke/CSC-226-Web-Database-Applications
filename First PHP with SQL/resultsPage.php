@@ -1,9 +1,9 @@
 <html>
 <head>
-  <title>Book-O-Rama Search Results</title>
+  <title>Page Visits Search Results</title>
 </head>
 <body>
-<h1>Book-O-Rama Search Results</h1>
+<h1>Page Visits Search Results</h1>
 <?php
 	
 		include("loginPage.php");
