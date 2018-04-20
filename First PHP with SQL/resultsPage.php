@@ -1,9 +1,9 @@
 <html>
 <head>
-  <title>Page Visits Search Results</title>
+  <title>Web Page Search Results</title>
 </head>
 <body>
-<h1>Page Visits Search Results</h1>
+<h1>Web Page Search Results</h1>
 <?php
 	
 		include("loginPage.php");
